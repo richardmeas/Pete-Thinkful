@@ -78,7 +78,7 @@ h2 {
 }
 
 .image-circle {
-  max-width: 40%;
+  max-width: 10%;
   border-radius: 50%;
   border: 2px solid #003049
 }
@@ -113,6 +113,7 @@ ul {
 ul li {
   margin-right: 5px 0;
   list-style-type: disc;
+  display: block;
 }
 
 a {
@@ -133,6 +134,11 @@ a:hover {
   max-width: 600px;
   margin: 0 auto;
 }
+
+#about p, #about ul {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
 
 #portfolio {
   text-align: center;
