@@ -111,9 +111,8 @@ ul {
 }
 
 ul li {
-  margin: 5px 0;
+  margin-right: 5px 0;
   list-style-type: disc;
-  text-align: left;
 }
 
 a {
