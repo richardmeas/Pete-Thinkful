@@ -84,7 +84,7 @@ h2 {
 }
 
 article img {
-  max-width: 20%;
+  max-width: 40%;
   height: auto;
   margin: 0 auto;
   display: block;
@@ -110,9 +110,9 @@ ul {
   margin-left: 0;
 }
 
-ul li {
-  margin-right: 10%;
+ul, li {
   list-style-type: disc;
+  margin-right: 10%;
   text-align: left;
 }
 
@@ -128,6 +128,7 @@ a:hover {
   text-align: center;
   max-width: 600px;
   margin: 0 auto;
+}
 
 #about {
   text-align: center;
