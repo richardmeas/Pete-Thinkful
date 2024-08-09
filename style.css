@@ -19,7 +19,7 @@ header {
 
 main {
   display: block;
-  margin: 0 auto:
+  margin: 0 auto;
   padding: 20px;
 }
 
@@ -86,9 +86,8 @@ h2 {
 article img {
   max-width: 40%;
   height: auto;
-  margin: 0;
-  padding: 0;
-  display: center;
+  margin: 0 auto;
+  display: block;
 }
 
 h3 {
